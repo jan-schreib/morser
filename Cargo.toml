@@ -2,5 +2,13 @@
 name = "morser"
 version = "0.1.0"
 authors = ["Jan Schreiber"]
+license = "ISC"
+homepage = "https://github.com/jan-schreib/morser"
+repository = "https://github.com/jan-schreib/morser"
+description = "Rust crate for encoding and decoding morse code"
+keywords = ["morse", "encoding", "decoding"]
+
+[lib]
+name = "morser"
 
 
