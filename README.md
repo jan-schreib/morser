@@ -1,5 +1,5 @@
 # morser
-Rust create for encoding and decoding morse code
+Rust crate for encoding and decoding morse code
 
 # examples
 
